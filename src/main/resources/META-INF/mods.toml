@@ -13,7 +13,7 @@ version="${file.jarVersion}"
  # A display name for the mod
 displayName="Template Mod"
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="http://example.com/"
+displayURL="https://github.com/yooksi/forge-1.15.2"
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="examplemod.png"
 # A text field displayed in the mod UI
