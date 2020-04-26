@@ -14,7 +14,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 version = "${forgeVersion}-${modVersion}"
-group = "io.yooksi.${modId}"
+group = "io.${groupName}.${modId}"
 archivesBaseName = project.modId
 
 // Need this here so eclipse task generates correctly.
